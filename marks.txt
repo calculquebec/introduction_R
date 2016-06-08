@@ -1,0 +1,6 @@
+Name  Age  Mark
+John  15   76.2
+Mary  14   81.4
+Dave  16   62.1
+Sara  14   71.8
+
